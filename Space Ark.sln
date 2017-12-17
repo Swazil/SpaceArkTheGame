@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Ark", "Assembly-CSharp.csproj", "{70BE876A-52F4-B368-FAE7-F99BD2C7BBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BE876A-52F4-B368-FAE7-F99BD2C7BBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BE876A-52F4-B368-FAE7-F99BD2C7BBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BE876A-52F4-B368-FAE7-F99BD2C7BBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BE876A-52F4-B368-FAE7-F99BD2C7BBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

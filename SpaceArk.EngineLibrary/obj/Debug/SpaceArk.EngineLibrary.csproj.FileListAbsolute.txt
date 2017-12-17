@@ -1,0 +1,5 @@
+D:\Программирование\Проекты на Unity\Space Ark\SpaceArk.EngineLibrary\bin\Debug\SpaceArk.EngineLibrary.dll
+D:\Программирование\Проекты на Unity\Space Ark\SpaceArk.EngineLibrary\bin\Debug\SpaceArk.EngineLibrary.pdb
+D:\Программирование\Проекты на Unity\Space Ark\SpaceArk.EngineLibrary\obj\Debug\SpaceArk.EngineLibrary.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты на Unity\Space Ark\SpaceArk.EngineLibrary\obj\Debug\SpaceArk.EngineLibrary.dll
+D:\Программирование\Проекты на Unity\Space Ark\SpaceArk.EngineLibrary\obj\Debug\SpaceArk.EngineLibrary.pdb

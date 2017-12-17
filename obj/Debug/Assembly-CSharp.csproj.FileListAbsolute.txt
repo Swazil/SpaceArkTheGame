@@ -1,0 +1,1 @@
+C:\Space Ark\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
